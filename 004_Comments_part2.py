@@ -1,8 +1,6 @@
 """
-this can be considered
-multiple line
-comments.
-a string that is not assigned to a variable
+first line comment
+second line comment
+third line comment
 """
-
-print("the unassigned string above can be used for multiple line comments")
+print("above lines are multiple line comments")
